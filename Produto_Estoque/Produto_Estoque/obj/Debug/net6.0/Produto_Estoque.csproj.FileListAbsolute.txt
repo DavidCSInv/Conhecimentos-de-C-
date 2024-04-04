@@ -1,0 +1,14 @@
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\bin\Debug\net6.0\Produto_Estoque.exe
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\bin\Debug\net6.0\Produto_Estoque.deps.json
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\bin\Debug\net6.0\Produto_Estoque.runtimeconfig.json
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\bin\Debug\net6.0\Produto_Estoque.dll
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\bin\Debug\net6.0\Produto_Estoque.pdb
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.AssemblyInfoInputs.cache
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.AssemblyInfo.cs
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.csproj.CoreCompileInputs.cache
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.dll
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\refint\Produto_Estoque.dll
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.pdb
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\Produto_Estoque.genruntimeconfig.cache
+C:\TreinoC#\TREINO SERVIÇO\Produto_Estoque\Produto_Estoque\obj\Debug\net6.0\ref\Produto_Estoque.dll

@@ -1,0 +1,14 @@
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\bin\Debug\net6.0\ClassesEstaticos.exe
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\bin\Debug\net6.0\ClassesEstaticos.deps.json
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\bin\Debug\net6.0\ClassesEstaticos.runtimeconfig.json
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\bin\Debug\net6.0\ClassesEstaticos.dll
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\bin\Debug\net6.0\ClassesEstaticos.pdb
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.AssemblyInfoInputs.cache
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.AssemblyInfo.cs
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.csproj.CoreCompileInputs.cache
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.dll
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\refint\ClassesEstaticos.dll
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.pdb
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ClassesEstaticos.genruntimeconfig.cache
+C:\TreinoC#\TREINO SERVIÇO\ClassesEstaticos\ClassesEstaticos\obj\Debug\net6.0\ref\ClassesEstaticos.dll

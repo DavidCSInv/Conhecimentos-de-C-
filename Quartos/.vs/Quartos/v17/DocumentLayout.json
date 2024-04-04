@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Quartos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B229526F-3899-423E-8FC2-8B0011CCE9EE}|Quartos\\Quartos.csproj|c:\\treinoc#\\treino servi\u00E7o\\quartos\\quartos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B229526F-3899-423E-8FC2-8B0011CCE9EE}|Quartos\\Quartos.csproj|solutionrelative:quartos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B229526F-3899-423E-8FC2-8B0011CCE9EE}|Quartos\\Quartos.csproj|c:\\treinoc#\\treino servi\u00E7o\\quartos\\quartos\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B229526F-3899-423E-8FC2-8B0011CCE9EE}|Quartos\\Quartos.csproj|solutionrelative:quartos\\quarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quarto.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Quartos\\Quartos\\Quarto.cs",
+              "RelativeDocumentMoniker": "Quartos\\Quarto.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Quartos\\Quartos\\Quarto.cs",
+              "RelativeToolTip": "Quartos\\Quarto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:13:58.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Quartos\\Quartos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Quartos\\Cliente.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Quartos\\Quartos\\Cliente.cs",
+              "RelativeToolTip": "Quartos\\Cliente.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T00:11:08.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

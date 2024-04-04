@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\TreinoClasse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6ED43-CFB6-4B91-8908-E049DB588BBC}|TreinoClasse\\TreinoClasse.csproj|c:\\treinoc#\\treino servi\u00E7o\\treinoclasse\\treinoclasse\\cadastrocli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6ED43-CFB6-4B91-8908-E049DB588BBC}|TreinoClasse\\TreinoClasse.csproj|solutionrelative:treinoclasse\\cadastrocli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6ED43-CFB6-4B91-8908-E049DB588BBC}|TreinoClasse\\TreinoClasse.csproj|c:\\treinoc#\\treino servi\u00E7o\\treinoclasse\\treinoclasse\\bancocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6ED43-CFB6-4B91-8908-E049DB588BBC}|TreinoClasse\\TreinoClasse.csproj|solutionrelative:treinoclasse\\bancocad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroCli.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\TreinoClasse\\TreinoClasse\\CadastroCli.cs",
+              "RelativeDocumentMoniker": "TreinoClasse\\CadastroCli.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\TreinoClasse\\TreinoClasse\\CadastroCli.cs",
+              "RelativeToolTip": "TreinoClasse\\CadastroCli.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:30:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BancoCad.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\TreinoClasse\\TreinoClasse\\BancoCad.cs",
+              "RelativeDocumentMoniker": "TreinoClasse\\BancoCad.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\TreinoClasse\\TreinoClasse\\BancoCad.cs",
+              "RelativeToolTip": "TreinoClasse\\BancoCad.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T23:57:11.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

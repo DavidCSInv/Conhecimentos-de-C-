@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\ClassesEstaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760B770E-C533-4B8E-BFB7-4432DACB8E18}|ClassesEstaticos\\ClassesEstaticos.csproj|c:\\treinoc#\\treino servi\u00E7o\\classesestaticos\\classesestaticos\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760B770E-C533-4B8E-BFB7-4432DACB8E18}|ClassesEstaticos\\ClassesEstaticos.csproj|solutionrelative:classesestaticos\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760B770E-C533-4B8E-BFB7-4432DACB8E18}|ClassesEstaticos\\ClassesEstaticos.csproj|c:\\treinoc#\\treino servi\u00E7o\\classesestaticos\\classesestaticos\\cota\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760B770E-C533-4B8E-BFB7-4432DACB8E18}|ClassesEstaticos\\ClassesEstaticos.csproj|solutionrelative:classesestaticos\\cota\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cota\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\ClassesEstaticos\\ClassesEstaticos\\Cota\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "ClassesEstaticos\\Cota\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\ClassesEstaticos\\ClassesEstaticos\\Cota\u00E7\u00E3o.cs",
+              "RelativeToolTip": "ClassesEstaticos\\Cota\u00E7\u00E3o.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:38:13.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dOLAR.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\ClassesEstaticos\\ClassesEstaticos\\dOLAR.cs",
+              "RelativeDocumentMoniker": "ClassesEstaticos\\dOLAR.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\ClassesEstaticos\\ClassesEstaticos\\dOLAR.cs",
+              "RelativeToolTip": "ClassesEstaticos\\dOLAR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:07:41.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
