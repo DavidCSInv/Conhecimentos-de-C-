@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\pedidotreino\\pedidotreino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|solutionrelative:pedidotreino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\pedidotreino\\pedidotreino\\entities\\cadproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|solutionrelative:pedidotreino\\entities\\cadproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\pedidotreino\\pedidotreino\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|solutionrelative:pedidotreino\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\pedidotreino\\pedidotreino\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|solutionrelative:pedidotreino\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\pedidotreino\\pedidotreino\\entities\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A510759E-3E0D-4CBC-B34A-472D9B77249F}|PedidoTreino\\PedidoTreino.csproj|solutionrelative:pedidotreino\\entities\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadProduto.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\CadProduto.cs",
+              "RelativeDocumentMoniker": "PedidoTreino\\Entities\\CadProduto.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\CadProduto.cs",
+              "RelativeToolTip": "PedidoTreino\\Entities\\CadProduto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:22:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "PedidoTreino\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\Cliente.cs",
+              "RelativeToolTip": "PedidoTreino\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:25:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoItem.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\PedidoItem.cs",
+              "RelativeDocumentMoniker": "PedidoTreino\\Entities\\PedidoItem.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\PedidoItem.cs",
+              "RelativeToolTip": "PedidoTreino\\Entities\\PedidoItem.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:16:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "PedidoTreino\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Entities\\Pedido.cs",
+              "RelativeToolTip": "PedidoTreino\\Entities\\Pedido.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:19:34.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Program.cs",
+              "RelativeDocumentMoniker": "PedidoTreino\\Program.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\PedidoTreino\\PedidoTreino\\Program.cs",
+              "RelativeToolTip": "PedidoTreino\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:45:17.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

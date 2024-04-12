@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treino de matriz", "Treino de matriz\Treino de matriz.csproj", "{D9B36BAC-1B57-49ED-8FED-A5E65525E9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B36BAC-1B57-49ED-8FED-A5E65525E9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B36BAC-1B57-49ED-8FED-A5E65525E9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B36BAC-1B57-49ED-8FED-A5E65525E9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B36BAC-1B57-49ED-8FED-A5E65525E9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4783D533-EC58-4B49-A63A-CA1D907C7056}
+	EndGlobalSection
+EndGlobal

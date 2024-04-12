@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1gcGG4fe4FBQZ8WCt9pM1aPbmlRfnl2dvHgSvYeJb9dVkwqxXtGJG9T+h7qF4oBvSISOuTBq7OOyRqhp8BrPA==",
+  "success": true,
+  "projectFilePath": "C:\\TreinoC#\\TREINO SERVIÇO\\Vetor\\Vetor\\Vetor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

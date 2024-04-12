@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HAoyMTmFe5HP7BgiXaJD9U4HSbcSeqDPPy2jhbzjZUzYyuNAKo18naHPRlVkp/8tD59yuW9o8xMuCID/TCi+kQ==",
+  "success": true,
+  "projectFilePath": "C:\\TreinoC#\\TREINO SERVIÇO\\Treino de matriz\\Treino de matriz\\Treino de matriz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

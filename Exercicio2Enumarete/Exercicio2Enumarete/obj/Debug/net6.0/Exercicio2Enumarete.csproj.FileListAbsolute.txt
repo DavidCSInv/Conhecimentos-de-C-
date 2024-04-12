@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\bin\Debug\net6.0\Exercicio2Enumarete.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\bin\Debug\net6.0\Exercicio2Enumarete.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\bin\Debug\net6.0\Exercicio2Enumarete.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\bin\Debug\net6.0\Exercicio2Enumarete.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\bin\Debug\net6.0\Exercicio2Enumarete.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\refint\Exercicio2Enumarete.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\Exercicio2Enumarete.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Exercicio2Enumarete\Exercicio2Enumarete\obj\Debug\net6.0\ref\Exercicio2Enumarete.dll

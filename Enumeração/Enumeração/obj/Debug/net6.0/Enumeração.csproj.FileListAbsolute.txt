@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\bin\Debug\net6.0\Enumeração.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\refint\Enumeração.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\Enumeração.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Enumeração\Enumeração\obj\Debug\net6.0\ref\Enumeração.dll

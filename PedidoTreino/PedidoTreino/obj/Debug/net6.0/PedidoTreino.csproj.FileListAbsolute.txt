@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\bin\Debug\net6.0\PedidoTreino.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\bin\Debug\net6.0\PedidoTreino.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\bin\Debug\net6.0\PedidoTreino.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\bin\Debug\net6.0\PedidoTreino.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\bin\Debug\net6.0\PedidoTreino.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\refint\PedidoTreino.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\PedidoTreino.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\PedidoTreino\PedidoTreino\obj\Debug\net6.0\ref\PedidoTreino.dll

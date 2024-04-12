@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Treino de matriz/1.0.0": {
+        "runtime": {
+          "Treino de matriz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Treino de matriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
