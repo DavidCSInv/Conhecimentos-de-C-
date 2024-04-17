@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\rendaimposto\\rendaimposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|solutionrelative:rendaimposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\rendaimposto\\rendaimposto\\entities\\taxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|solutionrelative:rendaimposto\\entities\\taxa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\rendaimposto\\rendaimposto\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|solutionrelative:rendaimposto\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\rendaimposto\\rendaimposto\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AAE59F-2672-4FB4-A8AC-B5C7149A65E8}|RendaImposto\\RendaImposto.csproj|solutionrelative:rendaimposto\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Entities\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "RendaImposto\\Entities\\PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Entities\\PessoaJuridica.cs",
+              "RelativeToolTip": "RendaImposto\\Entities\\PessoaJuridica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:39:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Entities\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "RendaImposto\\Entities\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Entities\\PessoaFisica.cs",
+              "RelativeToolTip": "RendaImposto\\Entities\\PessoaFisica.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:27:08.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Taxa.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Entities\\Taxa.cs",
+              "RelativeDocumentMoniker": "RendaImposto\\Entities\\Taxa.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Entities\\Taxa.cs",
+              "RelativeToolTip": "RendaImposto\\Entities\\Taxa.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:22:09.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Program.cs",
+              "RelativeDocumentMoniker": "RendaImposto\\Program.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\RendaImposto\\RendaImposto\\Program.cs",
+              "RelativeToolTip": "RendaImposto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:18:06.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

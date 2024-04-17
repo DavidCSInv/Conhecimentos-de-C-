@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\refint\EtiquetaProduto.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\ref\EtiquetaProduto.dll

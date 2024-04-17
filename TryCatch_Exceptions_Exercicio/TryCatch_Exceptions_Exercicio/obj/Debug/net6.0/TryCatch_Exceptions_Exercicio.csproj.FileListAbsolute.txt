@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\bin\Debug\net6.0\TryCatch_Exceptions_Exercicio.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\bin\Debug\net6.0\TryCatch_Exceptions_Exercicio.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\bin\Debug\net6.0\TryCatch_Exceptions_Exercicio.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\bin\Debug\net6.0\TryCatch_Exceptions_Exercicio.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\bin\Debug\net6.0\TryCatch_Exceptions_Exercicio.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\refint\TryCatch_Exceptions_Exercicio.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\TryCatch_Exceptions_Exercicio.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\TryCatch_Exceptions_Exercicio\obj\Debug\net6.0\ref\TryCatch_Exceptions_Exercicio.dll

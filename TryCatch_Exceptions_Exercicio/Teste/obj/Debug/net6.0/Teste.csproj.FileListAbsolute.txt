@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\bin\Debug\net6.0\Teste.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\bin\Debug\net6.0\Teste.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\TryCatch_Exceptions_Exercicio\Teste\obj\Debug\net6.0\ref\Teste.dll

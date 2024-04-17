@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\bin\Debug\net6.0\RendaImposto.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\bin\Debug\net6.0\RendaImposto.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\bin\Debug\net6.0\RendaImposto.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\bin\Debug\net6.0\RendaImposto.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\bin\Debug\net6.0\RendaImposto.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\refint\RendaImposto.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\RendaImposto.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\RendaImposto\RendaImposto\obj\Debug\net6.0\ref\RendaImposto.dll
