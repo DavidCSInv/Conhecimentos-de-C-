@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|c:\\users\\david.silva\\desktop\\treino_para_casa\\xadrez\\xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01117DCA-A99F-430A-A236-E2808A5973A3}|Xadrez\\Xadrez.csproj|solutionrelative:xadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Tela.cs",
+              "RelativeDocumentMoniker": "Xadrez\\Tela.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Tela.cs",
+              "RelativeToolTip": "Xadrez\\Tela.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:01:51.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "Xadrez\\tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "Xadrez\\tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:36:55.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PosicaoXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\PosicaoXadrez.cs",
+              "RelativeDocumentMoniker": "Xadrez\\Xadrez\\PosicaoXadrez.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\PosicaoXadrez.cs",
+              "RelativeToolTip": "Xadrez\\Xadrez\\PosicaoXadrez.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:36:40.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Posicao.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Posicao.cs",
+              "RelativeDocumentMoniker": "Xadrez\\tabuleiro\\Posicao.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Posicao.cs",
+              "RelativeToolTip": "Xadrez\\tabuleiro\\Posicao.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:41:19.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Program.cs",
+              "RelativeDocumentMoniker": "Xadrez\\Program.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Program.cs",
+              "RelativeToolTip": "Xadrez\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:38:27.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PartidaDeXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\PartidaDeXadrez.cs",
+              "RelativeDocumentMoniker": "Xadrez\\Xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\PartidaDeXadrez.cs",
+              "RelativeToolTip": "Xadrez\\Xadrez\\PartidaDeXadrez.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAADwv5kAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:25:51.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Peca.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Peca.cs",
+              "RelativeDocumentMoniker": "Xadrez\\tabuleiro\\Peca.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Peca.cs",
+              "RelativeToolTip": "Xadrez\\tabuleiro\\Peca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:50:41.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Torre.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\Torre.cs",
+              "RelativeDocumentMoniker": "Xadrez\\Xadrez\\Torre.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\Torre.cs",
+              "RelativeToolTip": "Xadrez\\Xadrez\\Torre.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwCYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:25:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "Xadrez\\tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\Cor.cs",
+              "RelativeToolTip": "Xadrez\\tabuleiro\\Cor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:50:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TabuleiroException.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\TabuleiroException.cs",
+              "RelativeDocumentMoniker": "Xadrez\\tabuleiro\\TabuleiroException.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\tabuleiro\\TabuleiroException.cs",
+              "RelativeToolTip": "Xadrez\\tabuleiro\\TabuleiroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:22:06.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rei.cs",
+              "DocumentMoniker": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\Rei.cs",
+              "RelativeDocumentMoniker": "Xadrez\\Xadrez\\Rei.cs",
+              "ToolTip": "C:\\Users\\david.silva\\Desktop\\TREINO_PARA_CASA\\Xadrez\\Xadrez\\Xadrez\\Rei.cs",
+              "RelativeToolTip": "Xadrez\\Xadrez\\Rei.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:22:17.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

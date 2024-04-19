@@ -1,0 +1,14 @@
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.exe
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.deps.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.runtimeconfig.json
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfo.cs
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\refint\Xadrez.dll
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.pdb
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.genruntimeconfig.cache
+C:\Users\david.silva\Desktop\TREINO_PARA_CASA\Xadrez\Xadrez\obj\Debug\net6.0\ref\Xadrez.dll
