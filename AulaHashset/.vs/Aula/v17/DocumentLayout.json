@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Aula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54061CE9-A6D6-4E67-BE03-F61AFCE9023B}|Aula\\Aula.csproj|c:\\treinoc#\\treino servi\u00E7o\\aula\\aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54061CE9-A6D6-4E67-BE03-F61AFCE9023B}|Aula\\Aula.csproj|solutionrelative:aula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54061CE9-A6D6-4E67-BE03-F61AFCE9023B}|Aula\\Aula.csproj|c:\\treinoc#\\treino servi\u00E7o\\aula\\aula\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54061CE9-A6D6-4E67-BE03-F61AFCE9023B}|Aula\\Aula.csproj|solutionrelative:aula\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classe.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Aula\\Aula\\Classe.cs",
+              "RelativeDocumentMoniker": "Aula\\Classe.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Aula\\Aula\\Classe.cs",
+              "RelativeToolTip": "Aula\\Classe.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:55:46.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Aula\\Aula\\Program.cs",
+              "RelativeDocumentMoniker": "Aula\\Program.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\Aula\\Aula\\Program.cs",
+              "RelativeToolTip": "Aula\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:23:14.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

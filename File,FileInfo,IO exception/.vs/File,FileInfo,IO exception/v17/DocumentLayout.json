@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\File,FileInfo,IO exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3931B9-61DC-4D8D-BED1-4478BE0DFE00}|File,FileInfo,IO exception\\File,FileInfo,IO exception.csproj|c:\\treinoc#\\treino servi\u00E7o\\file,fileinfo,io exception\\file,fileinfo,io exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3931B9-61DC-4D8D-BED1-4478BE0DFE00}|File,FileInfo,IO exception\\File,FileInfo,IO exception.csproj|solutionrelative:file,fileinfo,io exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\File,FileInfo,IO exception\\File,FileInfo,IO exception\\Program.cs",
+              "RelativeDocumentMoniker": "File,FileInfo,IO exception\\Program.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\File,FileInfo,IO exception\\File,FileInfo,IO exception\\Program.cs",
+              "RelativeToolTip": "File,FileInfo,IO exception\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:47:35.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

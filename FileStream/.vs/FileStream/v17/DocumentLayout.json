@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\FileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C77DD67-2415-4706-8CA5-0F2DE3564719}|FileStream\\FileStream.csproj|c:\\treinoc#\\treino servi\u00E7o\\filestream\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C77DD67-2415-4706-8CA5-0F2DE3564719}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\FileStream\\FileStream\\Program.cs",
+              "RelativeDocumentMoniker": "FileStream\\Program.cs",
+              "ToolTip": "C:\\TreinoC#\\TREINO SERVI\u00C7O\\FileStream\\FileStream\\Program.cs",
+              "RelativeToolTip": "FileStream\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:01:18.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
