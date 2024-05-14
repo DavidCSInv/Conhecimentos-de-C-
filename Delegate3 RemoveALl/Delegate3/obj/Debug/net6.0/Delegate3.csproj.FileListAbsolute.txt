@@ -1,0 +1,15 @@
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.exe
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.deps.json
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.runtimeconfig.json
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.dll
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\bin\Debug\net6.0\Delegate3.pdb
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.AssemblyInfoInputs.cache
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.AssemblyInfo.cs
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.csproj.CoreCompileInputs.cache
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.sourcelink.json
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.dll
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\refint\Delegate3.dll
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.pdb
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\Delegate3.genruntimeconfig.cache
+C:\TreinoC#\TREINO SERVIÇO\Delegate3\Delegate3\obj\Debug\net6.0\ref\Delegate3.dll

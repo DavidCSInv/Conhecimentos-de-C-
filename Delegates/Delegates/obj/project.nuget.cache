@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmPzC3Gz4SyPdryk9DnrBP8VeRBLtdD2egnnC2ZAEtFaWtKKrh6Lod0+rvpC4AoU0kq9jlRzew3EDCMXYXBc3g==",
+  "success": true,
+  "projectFilePath": "C:\\TreinoC#\\TREINO SERVIÇO\\Delegates\\Delegates\\Delegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
