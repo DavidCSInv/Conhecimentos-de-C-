@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TREINO_PARA_CASA\\LINQ treino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|c:\\treino_para_casa\\linq treino\\linq treino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|solutionrelative:linq treino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|c:\\treino_para_casa\\linq treino\\linq treino\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|solutionrelative:linq treino\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|c:\\treino_para_casa\\linq treino\\linq treino\\linq treino.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|solutionrelative:linq treino\\linq treino.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|c:\\treino_para_casa\\linq treino\\linq treino\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81D193D-4ABD-490A-AB83-C936C6B0144D}|LINQ treino\\LINQ treino.csproj|solutionrelative:linq treino\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LINQ treino",
+              "DocumentMoniker": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\LINQ treino.csproj",
+              "RelativeDocumentMoniker": "LINQ treino\\LINQ treino.csproj",
+              "ToolTip": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\LINQ treino.csproj",
+              "RelativeToolTip": "LINQ treino\\LINQ treino.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T00:57:35.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "LINQ treino\\Entities\\Category.cs",
+              "ToolTip": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\Entities\\Category.cs",
+              "RelativeToolTip": "LINQ treino\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:18:36.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "LINQ treino\\Entities\\Products.cs",
+              "ToolTip": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\Entities\\Products.cs",
+              "RelativeToolTip": "LINQ treino\\Entities\\Products.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA3wAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:38:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ treino\\Program.cs",
+              "ToolTip": "C:\\TREINO_PARA_CASA\\LINQ treino\\LINQ treino\\Program.cs*",
+              "RelativeToolTip": "LINQ treino\\Program.cs*",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:37:00.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
